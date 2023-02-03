@@ -1,4 +1,4 @@
-# Leetcode algorithms 1
+# Leetcode algorithms
 
 |#      |Solution   |
 |-------|-----------|
