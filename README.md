@@ -22,3 +22,13 @@
 | 977  | [Squares of a Sorted Array](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/squares-of-a-sorted-array.py)                               |
 | 2367 | [Number of Arithmetic Triplets](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/number-of-arithmetic-triplets.py)                       |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/difference-between-element-sum-and-digit-sum-of-an-array.py) |
+
+# Contests
+
+## Biweekly Contest 97
+| #   | Solution                                                                                                                                                                                                      |
+|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|2553 | [Separate the Digits in an Array](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/contest/biweekly-contest-97/problems/separate-the-digits-in-an-array.py)                                         |
+|2554 | [Maximum Number of Integers to Choose From a Range I](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/contest/biweekly-contest-97/problems/maximum-number-of-integers-to-choose-from-a-range-i.py) |
+|2555 | [Maximize Win From Two Segments](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/contest/biweekly-contest-97/problems/maximize-win-from-two-segments.py)                                           |
+|2556 | Disconnect Path in a Binary Matrix by at Most One Flip                                         |
