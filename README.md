@@ -32,3 +32,12 @@
 |2554 | [Maximum Number of Integers to Choose From a Range I](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/contest/biweekly-contest-97/problems/maximum-number-of-integers-to-choose-from-a-range-i.py) |
 |2555 | [Maximize Win From Two Segments](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/contest/biweekly-contest-97/problems/maximize-win-from-two-segments.py)                                           |
 |2556 | Disconnect Path in a Binary Matrix by at Most One Flip                                         |
+
+
+## Weekly Contest 331
+| #   | Solution                                                                                  |
+|-----|-------------------------------------------------------------------------------------------|
+|6348 | [Take Gifts From the Richest Pile](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/contest/weekly-contest-331/problems/take-gifts-from-the-richest-pile.py) |
+|6347 | [Count Vowel Strings in Ranges](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/contest/weekly-contest-331/problems/count-vowel-strings-in-ranges.py) |
+|6346 | [House Robber IV](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/contest/weekly-contest-331/problems/house-robber-iv.py) |
+|6345 | [Rearranging Fruits](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/contest/weekly-contest-331/problems/rearranging-fruits.py) |
