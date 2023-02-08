@@ -7,6 +7,7 @@
 | 19   | [Remove Nth Node From End of List](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/remove-nth-node-from-end-of-list.py)                                                 |
 | 21   | [Merge Two Sorted Lists](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/merge-two-sorted-lists.py)                                                                     |
 | 35   | [Search Insert Position](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/search-insert-position.py)                                                                     |
+| 45   | [Jump Game II](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/jump-game-ii.py)                                                                                         |
 | 167  | [Two Sum II - Input Array Is Sorted](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/two-sum-ii-input-array-is-sorted.py)                                               |
 | 189  | [Rotate Array](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/rotate-array.py)                                                                                         |
 | 202  | [Happy Number](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/happy-number.py)                                                                                         |
@@ -16,6 +17,7 @@
 | 438  | [Find All Anagrams in a String](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/find-all-anagrams-in-a-string.py)                                                       |
 | 557  | [Reverse Words in a String III](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/reverse-words-in-a-string-iii.py)                                                       |
 | 567  | [Permutation in String](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/permutation-in-string.py)                                                                       |
+| 617  | [Permutation in String](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/merge-two-binary-trees.py)                                                                      |
 | 695  | [Max Area of Island](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/max-area-of-island.py)                                                                             |
 | 704  | [Binary Search](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/binary-search.py)                                                                                       |
 | 733  | [Flood Fill](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/flood-fill.py)                                                                                             |
