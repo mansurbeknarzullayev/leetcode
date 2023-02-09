@@ -3,6 +3,7 @@
 | #    | Solution                                                                                                                                                                   |
 |------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 3    | [Longest Substring Without Repeating Characters](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/longest-substring-without-repeating-characters.py)    |
+| 5    | [Longest Palindromic Substring](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/longest-palindromic-substring.py)    |
 | 14   | [Longest Common Prefix](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/longest-common-prefix.py)                                                      |
 | 19   | [Remove Nth Node From End of List](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/remove-nth-node-from-end-of-list.py)                                |
 | 21   | [Merge Two Sorted Lists](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/merge-two-sorted-lists.py)                                                    |
