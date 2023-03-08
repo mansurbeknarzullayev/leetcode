@@ -25,6 +25,7 @@
 | 695  | [Max Area of Island](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/max-area-of-island.py)                                     |
 | 704  | [Binary Search](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/binary-search.py)                                               |
 | 733  | [Flood Fill](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/flood-fill.py)                                                     |
+| 875  | [Koko Eating Bananas](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/koko-eating-bananas.py)                       |
 | 876  | [Middle of the Linked List](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/middle-of-the-linked-list.py)                       |
 | 977  | [Squares of a Sorted Array](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/squares-of-a-sorted-array.py)                       |
 | 1470 | [Shuffle the Array](https://github.com/mansurbeknarzullayev/Leetcode/blob/main/problems/shuffle-the-array.py)                                       |
